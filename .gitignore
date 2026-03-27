@@ -1,2 +1,3 @@
 #My first Gitignore file
 Logs
+*.exe
